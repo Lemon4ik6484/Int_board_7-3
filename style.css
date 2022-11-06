@@ -38,6 +38,7 @@ h3.button_fact {
   border-radius: 15px 100px 15px 100px;
   background-color: rgb(255, 232, 219);
   border: 6px solid #ff5a00;
+  font-family: Verdana, Arial, Helvetica, sans-serif;
 }
 
 h3.button_word {
@@ -164,7 +165,3 @@ h3.button_word {
   text-align: center;
   font-weight: 700;
 }
-
-i{
-  font-family: Verdana, Arial, Helvetica, sans-serif;
-} 
